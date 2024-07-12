@@ -53,6 +53,7 @@ ol {
   align-items: flex-end;
   gap: 30px;
   max-height: 534px;
+  min-width: 1140px;
 }
 
 .result {
